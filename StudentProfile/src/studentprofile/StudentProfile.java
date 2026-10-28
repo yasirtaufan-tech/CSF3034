@@ -21,6 +21,8 @@ public class StudentProfile {
         System.out.println("Student ID: S86774");
         System.out.println("Programme: Bachelor of Software Engineering");
         System.out.println("Faculty : FSKM");
+        System.out.println("Semester: Semester 1"); 
+        System.out.println("Favourite Language: Java");
 
     }
     
