@@ -20,6 +20,8 @@ public class StudentProfile {
         System.out.println("Name: Muhammad Yasir Bin Ahmad Taufan");
         System.out.println("Student ID: S86774");
         System.out.println("Programme: Bachelor of Software Engineering");
+        System.out.println("Faculty : FSKM");
+
     }
     
 }
