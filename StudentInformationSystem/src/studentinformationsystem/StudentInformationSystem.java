@@ -48,5 +48,7 @@ public class StudentInformationSystem {
         System.out.println("Total Mark   : " + totalMark);
         System.out.println("Status       : " + performanceMessage);
         System.out.println("========================================");
+        System.out.println("========================================");
+
     }
 }
